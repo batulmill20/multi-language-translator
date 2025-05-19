@@ -126,7 +126,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## Credits
 
 - **Developed by**: rajendraprasath and Open AI
-- **Email**: [rajendraprasath307@gmail.com](mailto:rajendraprasath307@gmail.com)
+- **Email**: [batulmill2005@gmail.com](mailto:batulmill2005@gmail.com)
 
 
 ### Dependencies
